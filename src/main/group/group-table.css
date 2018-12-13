@@ -1,0 +1,68 @@
+.group-tab {
+    width: 100%;
+}
+
+.group-pagination {
+    width: 100%;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+@media only screen and (min-width: 992px) {
+    .group-tab {
+        margin: 1em;
+    }
+    .group-pagination {
+        margin: 1em;
+    }
+}
+
+.countTable {
+    width:10%;
+    display: inline !important;
+    margin-right:1% !important;
+}
+
+.left-float {
+    float: left;
+    position: relative;
+}
+
+.publicDescription {
+    font-family: monospace;
+    font-style: italic;
+    font-size: 15px;
+    word-wrap: break-word;
+}
+
+.publicDescriptionSegment {
+    width: 100%;
+    margin: 0 !important;
+}
+
+
+.publicBody {
+    display: flex;
+}
+
+.publicImage {
+    min-width: 150px;
+    width: 15%;
+    display:inline-block;
+}
+
+.membersCount {
+    margin-left: 3px !important;
+    margin-right: 3px !important;
+}
+
+.unsubscribeButton {
+    margin-top: -5px !important;
+    width: 100px !important;
+    height: 30px !important;
+}
+
+.userSearch {
+    padding-top: 15px !important;
+}

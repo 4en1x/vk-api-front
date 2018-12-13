@@ -1,0 +1,35 @@
+.friendContainer {
+    height: 50px;
+}
+
+.friendImageContainer {
+    margin-right: 50px !important;
+    width:80px !important;
+}
+
+.friendImage {
+    margin-right: 0 !important;
+    position: static !important;
+    width: 50px !important;
+}
+
+.onlineStatus {
+    margin-left: -12px !important;
+}
+
+.checkGroupsButton {
+    margin-top: -25px !important;
+
+}
+
+@media only screen and (min-width: 992px) {
+    .friendName {
+        margin-left: 100px !important;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .friendName {
+        margin-left: 80px !important;
+    }
+}

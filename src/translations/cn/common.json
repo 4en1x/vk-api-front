@@ -1,0 +1,89 @@
+{
+  "dropDownMenu": {
+    "selectLan": "选择语言",
+    "closeBtn": "关",
+    "signOut": "登出",
+    "cabinet": "个人内阁",
+    "mainPage": "主页",
+    "friends": "友",
+    "history": "历史"
+  },
+  "languageDropDown": {
+    "name": "选择语言"
+  },
+  "login-input": {
+    "placeholders":{
+      "email": "email",
+      "password": "密码"
+    },
+    "nextButton": "下一个",
+    "createAccount": "创建帐号"
+  },
+  "registration": {
+    "name": "报名表格",
+    "placeholders":{
+      "username": "用户名",
+      "password": "密码",
+      "repeatPassword":"密码",
+      "email": "something@something.else"
+    },
+    "labels":{
+      "username": "用户名",
+      "password": "输入密码",
+      "repeatPassword":"重复输入密码",
+      "email": "电子邮件"
+    },
+    "agreeCheckbox": "我同意这条款和条件",
+    "errorMessage": "行动被禁止",
+    "registerButton": "寄存器",
+    "errorSubmittingMessagePasswords": "密码不匹配",
+    "errorSubmittingMessageTerms": "您不同意条款和条件",
+    "errorSubmittingMessagePasswordLength": "密码长度必须为8到20个符号"
+  },
+  "error": {
+    "404": "未找到",
+    "1001": "找不到用户",
+    "1002": "找不到参赛者",
+    "1003": "教师没有找到",
+    "1004": "主题未找到",
+    "1005": "用户验证问题",
+    "1006": "参赛者验证问题",
+    "1007": "教师验证问题",
+    "1008": "主题验证问题",
+    "1009": "不允许访问",
+    "1010": "无法编辑教师科目",
+    "1011": "参赛者已经入伍或提交",
+    "1012": "教师入学已经结束",
+    "1013": "更新用户信息的问题",
+    "1014": "更新参赛者信息的问题",
+    "1015": "更新教师信息的问题",
+    "1016": "更新主题信息的问题"
+  },
+  "group": {
+    "table": {
+      "usersCountPart1": "这个小组有",
+      "usersCountPart2": "用户",
+      "unsubscribeButton" : "退订",
+      "subscribeButton" : "订阅",
+      "wallButton" : "壁"
+    },
+    "search": "搜索"
+  },
+  "auth":{
+    "placeholders": {
+      "link": "你的vk代码"
+    },
+    "labels": {
+      "link": "请提供刚刚在浏览器中打开的页面的vk代码"
+    },
+    "authButton": "认证",
+    "name": "VK 认证"
+  },
+  "friend": {
+    "groupsButton": "组",
+    "name": "友"
+  },
+  "history": {
+    "name": "历史"
+  }
+}

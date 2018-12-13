@@ -1,0 +1,35 @@
+.header-component {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  background-color: #fafafa;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+}
+
+.header-content {
+  width: 95%;
+  max-width: 1200px;
+  /*height: inherit;*/
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.header-content-left {
+  width: 70%;
+  height: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-component .logo-container {
+  position: absolute;
+  left: 0;
+}
+
+.header-component .logo-container .logo {
+  width: 70px;
+}

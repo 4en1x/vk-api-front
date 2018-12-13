@@ -1,0 +1,89 @@
+{
+  "dropDownMenu": {
+    "selectLan": "Select Language",
+    "closeBtn": "Close",
+    "signOut": "Sign Out",
+    "cabinet": "Personal Cabinet",
+    "mainPage": "Main Page",
+    "friends": "Friends",
+    "history": "History"
+  },
+  "languageDropDown": {
+    "name": "Select language"
+  },
+  "login-input": {
+    "placeholders":{
+      "email": "email",
+      "password": "password"
+    },
+    "nextButton": "Next",
+    "createAccount": "Create account"
+  },
+  "registration": {
+    "name": "Registration form",
+    "placeholders":{
+      "username": "Username",
+      "password": "Password",
+      "repeatPassword":"Password",
+      "email": "something@something.else"
+    },
+    "labels":{
+      "username": "Username",
+      "password": "Enter Password",
+      "repeatPassword":"Repeat Password",
+      "email": "Email"
+    },
+    "agreeCheckbox": "I agree to the Terms and Conditions",
+    "errorMessage": "Action Forbidden",
+    "registerButton": "Register",
+    "errorSubmittingMessagePasswords": "Passwords do not match",
+    "errorSubmittingMessageTerms": "You didn't agree to the Terms and Conditions",
+    "errorSubmittingMessagePasswordLength": "Password length must be from 8 to 20 symbols"
+  },
+  "error": {
+    "404": "Not Found",
+    "1001": "User not found",
+    "1002": "Entrant not found",
+    "1003": "Faculty not found",
+    "1004": "Subject not found",
+    "1005": "Problem with user validation",
+    "1006": "Problem with entrant validation",
+    "1007": "Problem with faculty validation",
+    "1008": "Problem with subject validation",
+    "1009": "Not allowed access",
+    "1010": "Cannot edit faculty subjects",
+    "1011": "Entrant is already enlisted or submitted",
+    "1012": "Enrollment for faculty is over",
+    "1013": "Problem with updating user information",
+    "1014": "Problem with updating entrant information",
+    "1015": "Problem with updating faculty information",
+    "1016": "Problem with updating subjects information"
+  },
+  "group": {
+    "table": {
+      "usersCountPart1": "This group have",
+      "usersCountPart2": "users",
+      "unsubscribeButton" : "Unsubscribe",
+      "subscribeButton" : "Subscribe",
+      "wallButton" : "Wall"
+    },
+    "search": "Search"
+  },
+  "auth":{
+    "placeholders": {
+      "link": "Your vk code"
+    },
+    "labels": {
+      "link": "Please provide vk code from page that just opened in your browser"
+    },
+    "authButton": "Authenticate",
+    "name": "VK Authentication"
+  },
+  "friend": {
+    "groupsButton": "Groups",
+    "name": "Friends"
+  },
+  "history": {
+    "name": "History"
+  }
+}

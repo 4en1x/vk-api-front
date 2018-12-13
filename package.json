@@ -3,9 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "axios": "^0.18.0",
+    "i18next": "^11.3.6",
+    "prop-types": "^15.6.2",
+    "query-string": "^6.2.0",
+    "react": "^16.4.1",
+    "react-alert": "^4.0.4",
+    "react-dom": "^16.4.1",
+    "react-i18next": "^7.8.0",
+    "react-redux": "^5.0.7",
+    "react-responsive": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-transition-group": "^2.3.0",
+    "redux": "^4.0.0",
+    "redux-form": "^7.4.2",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.82.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -13,13 +27,15 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "eslint-plugin-react": "^7.10.0",
+    "react-doc-generator": "^1.2.5",
+    "react-docgen": "^2.21.0"
+  }
 }

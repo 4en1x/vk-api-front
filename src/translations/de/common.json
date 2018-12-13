@@ -1,0 +1,89 @@
+{
+  "dropDownMenu": {
+    "selectLan": "Sprache auswählen",
+    "closeBtn": "Schließen",
+    "signOut": "Ausloggen",
+    "cabinet": "Persönliches Kabinett",
+    "mainPage": "Hauptseite",
+    "friends": "Freunde",
+    "history": "Geschichte"
+  },
+  "languageDropDown": {
+    "name": "Sprache auswählen"
+  },
+  "login-input": {
+    "placeholders":{
+      "email": "email",
+      "password": "passwort"
+    },
+    "nextButton": "Nächster",
+    "createAccount": "Benutzerkonto anlegen"
+  },
+  "registration": {
+    "name": "Anmeldeformular",
+    "placeholders":{
+      "username": "Nutzername",
+      "password": "Passwort",
+      "repeatPassword":"Passwort",
+      "email": "something@something.else"
+    },
+    "labels":{
+      "username": "Nutzername",
+      "password": "Passwort eingeben",
+      "repeatPassword":"Passwort wiederholen",
+      "email": "Email"
+    },
+    "agreeCheckbox": "Ich stimme den AGB zu",
+    "errorMessage": "Aktion verboten",
+    "registerButton": "Registrieren",
+    "errorSubmittingMessagePasswords": "Passwörter stimmen nicht überein",
+    "errorSubmittingMessageTerms": "Sie haben den Allgemeinen Geschäftsbedingungen nicht zugestimmt",
+    "errorSubmittingMessagePasswordLength": "Die Passwortlänge muss zwischen 8 und 20 Zeichen liegen"
+  },
+  "error": {
+    "404": "Nicht gefunden",
+    "1001": "Benutzer nicht gefunden",
+    "1002": "Teilnehmer nicht gefunden",
+    "1003": "Fakultät nicht gefunden",
+    "1004": "Betreff nicht gefunden",
+    "1005": "Problem mit Benutzervalidierung",
+    "1006": "Problem mit der Validierung des Teilnehmers",
+    "1007": "Problem mit Fakultätsvalidierung",
+    "1008": "Problem mit der Validierung des Themas",
+    "1009": "Nicht erlaubter Zugang",
+    "1010": "Fakultative Fächer können nicht bearbeitet werden",
+    "1011": "Teilnehmer wird bereits eingetragen oder eingereicht",
+    "1012": "Einschreibung für Fakultät ist vorbei",
+    "1013": "Problem beim Aktualisieren der Benutzerinformationen",
+    "1014": "Problem bei der Aktualisierung der Teilnehmerinformationen",
+    "1015": "Problem beim Aktualisieren der Fakultätsinformationen",
+    "1016": "Problem mit dem Aktualisieren von Subjektinformationen"
+  },
+  "group": {
+    "table": {
+      "usersCountPart1": "Diese Gruppe haben",
+      "usersCountPart2": "benutzer",
+      "unsubscribeButton" : "Abmelden",
+      "subscribeButton" : "Abonnieren",
+      "wallButton" : "Wand"
+    },
+    "search": "Suche"
+  },
+  "auth":{
+    "placeholders": {
+      "link": "Ihr VK-Code"
+    },
+    "labels": {
+      "link": "Bitte geben Sie den vk-Code von der Seite an, die gerade in Ihrem Browser geöffnet wurde"
+    },
+    "authButton": "Authentifizieren",
+    "name": "VK Authentifizieren"
+  },
+  "friend": {
+    "groupsButton": "Gruppen",
+    "name": "Freunde"
+  },
+  "history": {
+    "name": "Geschichte"
+  }
+}
